@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.triangle{
+  position: relative;
+  width: 0px;
+  border-bottom:60px solid yellow;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  
+}
+
+
+.down{
+bottom: 40px;
+transform: rotate(180deg);
+}
